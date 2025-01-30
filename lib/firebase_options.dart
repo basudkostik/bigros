@@ -53,11 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBfAN8W0m2AeuAnY08-BoL3NvrDkfHlIpY',
-    appId: '1:330285929093:android:d7f542db282f23b34dcfec',
-    messagingSenderId: '330285929093',
-    projectId: 'market-bigross-app',
-    storageBucket: 'market-bigross-app.firebasestorage.app',
+    apiKey: ' ',
+    appId: ' ',
+    messagingSenderId: ' ',
+    projectId: ' ',
+    storageBucket: ' ',
   );
 
 }
